@@ -32,4 +32,5 @@ vless://77f2d87d-c808-37d6-e70c-9aa442454eaa@173.199.122.162:443?mode=gun&securi
 hysteria2://kugQgm1cWt@91.184.242.252:443?security=tls&obfs=salamander&obfs-password=ZHr2aBtNWmYGZ8NnBfjxU7A&insecure=1&sni=www.bing.com#@xs_filternet🌀
 hysteria2://kugQgm1cWt@91.184.242.252:443?security=tls&obfs=salamander&obfs-password=ZHr2aBtNWmYGZ8NnBfjxU7A&insecure=1&sni=www.whatsapp.com#@xs_filternet🌀
 vless://087e5e9e-5ac0-4d14-b659-b7991ddd15d8@172.66.47.116:443?path=/sJEKPxQXZXXECAPq/ZGUucmFkaWNhbGx5LnBybw%3D%3D&eh=Sec-WebSocket-Protocol&ed=2560&encryption=none&host=hamedp71-b.pages.dev&type=ws&security=tls&sni=haMEDP71-b.pAGEs.deV&fp=randomized&alpn=http/1.1#🇩🇪hamedp71🇩🇪
-wireguard://iBE8maE4cMr5goGjHf81RKp88umFyg4CBTKm2IoTW0o%3D@162.159.195.249:5279?address=172.16.0.2%2F32%2C%202606%3A4700%3A110%3A8893%3A18%3Ace51%3A4fb0%3Abf6b%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#Peyman_WireGuard
+
+wireguard://iBE8maE4cMr5goGjHf81RKp88umFyg4CBTKm2IoTW0o%3D@162.159.195.249:5279?address=172.16.0.2%2F32%2C%202606%3A4700%3A110%3A8893%3A18%3Ace51%3A4fb0%3Abf6b%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#tkamirparsa
